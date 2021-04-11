@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.body{
+  background-image: url('C:/Users/meghashree.l/Downloads/croppedimg.jpg');
+  background-color: grey;
+}
+.header{
+    background-color: bisque;
+    text-align: center;
+    font-weight: bold;
+    padding:25px;
+
+}
+   
+
+.footer_style{
+    background-color: bisque;
+    text-align: right;
+    font-weight: bold;
+    padding:30px;
+    margin-top: 144px;
+    margin-bottom:0px;
+}
+div.main{
+    width:400px;
+    margin:100px auto 0px auto;
+
+}
+.h2{
+    text-align:center;
+    padding:20px;
+}/*
+div.register{
+    background-color:pink
+    width:100%;
+    font-size:18px;
+    border-radius:10px;
+    font-weight:content;
+
+}*/
